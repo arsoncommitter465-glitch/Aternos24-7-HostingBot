@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "tungsahurporn123.aternos.me",
+    "port": 24602,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,11 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Sometimes I feel like I should transition",
+        "Bore bore sahur is a fucking furry",
+        "I hope you get fucking lynched",
+        "Thoos thoos",
+        "I could probably make this in blender in 5 minutes"
       ]
     },
     "chat-log": true,
