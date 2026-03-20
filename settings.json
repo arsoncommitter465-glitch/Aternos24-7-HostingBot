@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "imgonnacum",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "tungsahurporn123.aternos.me",
+    "port": 24602,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,12 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Sometimes i wonder if i should transition....",
+        "I think i could make this in blender in 5 minutes",
+        "Bore is lowk a furry",
+        "Twin fantasy is geniunenly the most gayest piece of music ever made",
+        "Let down underrated",
+        "I secretly have a futa fetish"
       ]
     },
     "chat-log": true,
